@@ -1,0 +1,22 @@
+{
+  "name": "metacite",
+  "version": "1.0.0",
+  "description": "Community Discord Bot for Server Tools & Customization. Powered by discord.js. 👾",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "app",
+    "js",
+    "discord"
+  ],
+  "author": "el-ang",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
+}
